@@ -7,11 +7,3 @@
 
 
 
-
-
-
-## Libraries
-
-```code
-    pip install numpy nnfs matplotlib seaborn scikit-learn
-```
